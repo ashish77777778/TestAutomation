@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-07-20T20:22:26 IST" name="Surefire suite" finished-at="2020-07-20T20:28:54 IST" duration-ms="388423">
+    <groups>
+    </groups>
+    <test started-at="2020-07-20T20:22:26 IST" name="Surefire test" finished-at="2020-07-20T20:28:54 IST" duration-ms="388423">
+      <class name="com.automation.qa.testcases.ContactPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.automation.qa.testcases.ContactPageTest@71248c21]" started-at="2020-07-20T20:22:26 IST" name="setUp" finished-at="2020-07-20T20:22:59 IST" duration-ms="33279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyContactUSLabelTest()[pri:1, instance:com.automation.qa.testcases.ContactPageTest@71248c21]" started-at="2020-07-20T20:22:59 IST" name="verifyContactUSLabelTest" finished-at="2020-07-20T20:23:01 IST" duration-ms="2069" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyContactUSLabelTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.automation.qa.testcases.ContactPageTest@71248c21]" started-at="2020-07-20T20:23:01 IST" name="teardown" finished-at="2020-07-20T20:23:03 IST" duration-ms="1752" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.automation.qa.testcases.ContactPageTest -->
+      <class name="com.automation.qa.testcases.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.automation.qa.testcases.LoginPageTest@6166e06f]" started-at="2020-07-20T20:25:22 IST" name="setUp" finished-at="2020-07-20T20:25:30 IST" duration-ms="8059" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginPageTitleTest()[pri:1, instance:com.automation.qa.testcases.LoginPageTest@6166e06f]" started-at="2020-07-20T20:25:30 IST" name="loginPageTitleTest" finished-at="2020-07-20T20:25:32 IST" duration-ms="2687" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.automation.qa.testcases.LoginPageTest@6166e06f]" started-at="2020-07-20T20:25:32 IST" name="teardown" finished-at="2020-07-20T20:25:33 IST" duration-ms="980" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.automation.qa.testcases.LoginPageTest@6166e06f]" started-at="2020-07-20T20:25:33 IST" name="setUp" finished-at="2020-07-20T20:25:51 IST" duration-ms="17715" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest()[pri:2, instance:com.automation.qa.testcases.LoginPageTest@6166e06f]" started-at="2020-07-20T20:25:51 IST" name="loginTest" finished-at="2020-07-20T20:26:18 IST" duration-ms="27182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.automation.qa.testcases.LoginPageTest@6166e06f]" started-at="2020-07-20T20:26:18 IST" name="teardown" finished-at="2020-07-20T20:26:20 IST" duration-ms="2217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.automation.qa.testcases.LoginPageTest@6166e06f]" started-at="2020-07-20T20:26:24 IST" name="setUp" finished-at="2020-07-20T20:26:34 IST" duration-ms="9328" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validataAllcredentials(java.lang.String, java.lang.String)[pri:3, instance:com.automation.qa.testcases.LoginPageTest@6166e06f]" started-at="2020-07-20T20:26:34 IST" name="validataAllcredentials" data-provider="getExcelData" finished-at="2020-07-20T20:27:08 IST" duration-ms="34365" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9.561249414E9]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Elephant12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validataAllcredentials -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.automation.qa.testcases.LoginPageTest@6166e06f]" started-at="2020-07-20T20:27:08 IST" name="teardown" finished-at="2020-07-20T20:27:11 IST" duration-ms="2850" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.automation.qa.testcases.LoginPageTest@6166e06f]" started-at="2020-07-20T20:27:11 IST" name="setUp" finished-at="2020-07-20T20:27:19 IST" duration-ms="8373" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validataAllcredentials(java.lang.String, java.lang.String)[pri:3, instance:com.automation.qa.testcases.LoginPageTest@6166e06f]" started-at="2020-07-20T20:27:19 IST" name="validataAllcredentials" data-provider="getExcelData" finished-at="2020-07-20T20:27:57 IST" duration-ms="37527" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9.004444383E9]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Buffalo12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validataAllcredentials -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.automation.qa.testcases.LoginPageTest@6166e06f]" started-at="2020-07-20T20:27:57 IST" name="teardown" finished-at="2020-07-20T20:27:59 IST" duration-ms="2129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.automation.qa.testcases.LoginPageTest@6166e06f]" started-at="2020-07-20T20:27:59 IST" name="setUp" finished-at="2020-07-20T20:28:09 IST" duration-ms="9541" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validataAllcredentials(java.lang.String, java.lang.String)[pri:3, instance:com.automation.qa.testcases.LoginPageTest@6166e06f]" started-at="2020-07-20T20:28:09 IST" name="validataAllcredentials" data-provider="getExcelData" finished-at="2020-07-20T20:28:52 IST" duration-ms="43288" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9.503811453E9]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Cow12345678]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validataAllcredentials -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.automation.qa.testcases.LoginPageTest@6166e06f]" started-at="2020-07-20T20:28:52 IST" name="teardown" finished-at="2020-07-20T20:28:54 IST" duration-ms="2204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.automation.qa.testcases.LoginPageTest -->
+      <class name="com.automation.qa.testcases.HomePageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.automation.qa.testcases.HomePageTest@442675e1]" started-at="2020-07-20T20:23:03 IST" name="setup" finished-at="2020-07-20T20:23:34 IST" duration-ms="30829" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="homePageTitleTest()[pri:1, instance:com.automation.qa.testcases.HomePageTest@442675e1]" started-at="2020-07-20T20:23:34 IST" name="homePageTitleTest" finished-at="2020-07-20T20:23:34 IST" duration-ms="120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automation.qa.testcases.HomePageTest@442675e1]" started-at="2020-07-20T20:23:34 IST" name="tearDown" finished-at="2020-07-20T20:23:35 IST" duration-ms="1017" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.automation.qa.testcases.HomePageTest@442675e1]" started-at="2020-07-20T20:23:35 IST" name="setup" finished-at="2020-07-20T20:24:30 IST" duration-ms="54802" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="clickOnContactLink()[pri:2, instance:com.automation.qa.testcases.HomePageTest@442675e1]" started-at="2020-07-20T20:24:30 IST" name="clickOnContactLink" finished-at="2020-07-20T20:24:35 IST" duration-ms="5099" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnContactLink -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automation.qa.testcases.HomePageTest@442675e1]" started-at="2020-07-20T20:24:35 IST" name="tearDown" finished-at="2020-07-20T20:24:37 IST" duration-ms="2073" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.automation.qa.testcases.HomePageTest@442675e1]" started-at="2020-07-20T20:24:37 IST" name="setup" finished-at="2020-07-20T20:25:20 IST" duration-ms="42803" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="clickOnAssistancePageLink()[pri:3, instance:com.automation.qa.testcases.HomePageTest@442675e1]" started-at="2020-07-20T20:25:20 IST" name="clickOnAssistancePageLink" finished-at="2020-07-20T20:25:20 IST" duration-ms="821" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnAssistancePageLink -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automation.qa.testcases.HomePageTest@442675e1]" started-at="2020-07-20T20:25:20 IST" name="tearDown" finished-at="2020-07-20T20:25:22 IST" duration-ms="1156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automation.qa.testcases.HomePageTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

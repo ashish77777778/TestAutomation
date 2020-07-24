@@ -1,0 +1,6 @@
+com\automation\qa\pages\HomePage.class
+com\automation\qa\pages\LoginPage.class
+com\automation\qa\base\Testbase.class
+com\automation\qa\pages\ContactPage.class
+com\automation\qa\pages\AssistancePage.class
+com\automation\qa\util\TestUtil.class

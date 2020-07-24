@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Test Automation Suite">
+<!-- 	<Listeners>
+		<Listener class-name="com.qa.ExtentReportListener.ExtentReportListener"></Listener>
+		<Listener class-name="com.qa.ExtentReportListener.ExtentReportListener" />
+	</Listeners> -->
+	
+
+	<test name="Test Automation Test ">
+		<classes>
+			<class name="com.automation.qa.testcases.LoginPageTest" />
+			<class name="com.automation.qa.testcases.HomePageTest" />
+			<class name="com.automation.qa.testcases.ContactPageTest" />
+		</classes>
+	</test>
+</suite>
